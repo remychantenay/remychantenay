@@ -16,4 +16,4 @@ jobs:
           feed-url: https://web3isgoinggreat.com/feed.xml
           readme-section: rss_feed
           branch: main
-          max: 8
+          max: 10

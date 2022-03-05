@@ -12,5 +12,6 @@ Not much yet.
 * [Former ConsenSys employees demand audit regarding MetaMask and Infura&#39;s transfer to a new company](https:&#x2F;&#x2F;web3isgoinggreat.com&#x2F;single&#x2F;2022-03-01-1)
 * [Far-right social network Parler launches an NFT platform where you have to pay with credit cards](https:&#x2F;&#x2F;web3isgoinggreat.com&#x2F;single&#x2F;2022-03-01-0)
 <!--END_SECTION:rss_feed-->
+More [here](https://web3isgoinggreat.com/).
 Credits to [Molly White](https://www.mollywhite.net/).
 
