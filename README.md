@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<!--START_SECTION:rss_feed-->
+<!--END_SECTION:rss_feed-->
+
 <!--
 **remychantenay/remychantenay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
