@@ -11,6 +11,8 @@ Not much yet.
 * [Hackers who stole data from Nvidia demand the chipmaker remove cryptomining limitations on GPUs](https:&#x2F;&#x2F;web3isgoinggreat.com&#x2F;single&#x2F;2022-03-01-2)
 * [Former ConsenSys employees demand audit regarding MetaMask and Infura&#39;s transfer to a new company](https:&#x2F;&#x2F;web3isgoinggreat.com&#x2F;single&#x2F;2022-03-01-1)
 * [Far-right social network Parler launches an NFT platform where you have to pay with credit cards](https:&#x2F;&#x2F;web3isgoinggreat.com&#x2F;single&#x2F;2022-03-01-0)
+* [GenomesDAO wants you to give them your genetic data, which they acknowledge is &quot;data that can be exploited in ways we cannot even imagine yet&quot;](https:&#x2F;&#x2F;web3isgoinggreat.com&#x2F;single&#x2F;2022-02-28-4)
+* [Randi Zuckerberg tests your secondhand embarrassment tolerance with her second crypto-themed parody song](https:&#x2F;&#x2F;web3isgoinggreat.com&#x2F;single&#x2F;2022-02-28-3)
 <!--END_SECTION:rss_feed-->
 More [here](https://web3isgoinggreat.com/).
 Credits to [Molly White](https://www.mollywhite.net/).
