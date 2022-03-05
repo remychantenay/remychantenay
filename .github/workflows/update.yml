@@ -17,4 +17,3 @@ jobs:
           readme-section: rss_feed
           branch: main
           max: 8
-          template: "> #### {{ title }}\n\n{{ excerpt }}\n\n[Read more]({{ url }})"

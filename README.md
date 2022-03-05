@@ -1,4 +1,7 @@
-### Web3 is going just great (RSS)
+### About me
+Not much yet.
+
+### Here is an RSS everyone needs to see – *"Web3 is going just great"*
 <!--START_SECTION:rss_feed-->
 > #### OpenSea blocks Iranian users
 
