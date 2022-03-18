@@ -3,7 +3,11 @@ Not much yet.
 
 ### Here is an RSS everyone needs to see – *"Web3 is going just great"*
 <!--START_SECTION:rss_feed-->
+* [Australian regulatory agency begins lawsuit against Facebook over failing to address scammy crypto ads](https:&#x2F;&#x2F;web3isgoinggreat.com&#x2F;single&#x2F;2022-03-18-0)
+* [Bored Ape Yacht Club launches their new ApeCoin, which immediately tanks in price](https:&#x2F;&#x2F;web3isgoinggreat.com&#x2F;single&#x2F;2022-03-16-1)
 * [Winamp joins LimeWire in the emerging &quot;legacy software comes back from the dead to do NFTs&quot; trope](https:&#x2F;&#x2F;web3isgoinggreat.com&#x2F;single&#x2F;2022-03-16-0)
+* [NFTBOOKS enters the race to see who can remake DRM the worst](https:&#x2F;&#x2F;web3isgoinggreat.com&#x2F;single&#x2F;2022-03-15-3)
+* [Hundred Finance and Agave Finance are both exploited for a collective * [Winamp joins LimeWire in the emerging &quot;legacy software comes back from the dead to do NFTs&quot; trope](https:&#x2F;&#x2F;web3isgoinggreat.com&#x2F;single&#x2F;2022-03-16-0)
 * [NFTBOOKS enters the race to see who can remake DRM the worst](https:&#x2F;&#x2F;web3isgoinggreat.com&#x2F;single&#x2F;2022-03-15-3)
 * [Hundred Finance and Agave Finance are both exploited for a collective * [Discord compromise targets fans of the Wizard Pass project in a two-for-one scam that both accepted payments for fake NFTs and stole the NFTs that victims already owned](https:&#x2F;&#x2F;web3isgoinggreat.com&#x2F;single&#x2F;2022-03-14-0)
 * [A trader reportedly makes half a million from a flash crash, then the LATOKEN exchange takes their coins](https:&#x2F;&#x2F;web3isgoinggreat.com&#x2F;single&#x2F;2022-03-12-0)
@@ -39,7 +43,12 @@ Not much yet.
 * [Discord compromise targets fans of the Wizard Pass project in a two-for-one scam that both accepted payments for fake NFTs and stole the NFTs that victims already owned](https:&#x2F;&#x2F;web3isgoinggreat.com&#x2F;single&#x2F;2022-03-14-0)
 * [Collector sues artist after spending over $500,000 on an image of Pepe the Frog that others got for free](https:&#x2F;&#x2F;web3isgoinggreat.com&#x2F;single&#x2F;2022-03-12-1)
 * [A trader reportedly makes half a million from a flash crash, then the LATOKEN exchange takes their coins](https:&#x2F;&#x2F;web3isgoinggreat.com&#x2F;single&#x2F;2022-03-12-0)
-* [Report alleges Socios withheld payments owed to advisors and staff to maintain the value of its cryptocurrency](https:&#x2F;&#x2F;web3isgoinggreat.com&#x2F;single&#x2F;2022-03-11-5)
+* [Report alleges Socios withheld payments owed to advisors and staff to maintain the value of its cryptocurrency](https:&#x2F;&#x2F;web3isgoinggreat.com&#x2F;single&#x2F;2022-03-11-5)2 million](https:&#x2F;&#x2F;web3isgoinggreat.com&#x2F;single&#x2F;2022-03-15-2)
+* [Binance pauses withdrawals and deposits via Polygon](https:&#x2F;&#x2F;web3isgoinggreat.com&#x2F;single&#x2F;2022-03-15-1)
+* [Hackers make off with over $3 million from Deus Finance](https:&#x2F;&#x2F;web3isgoinggreat.com&#x2F;single&#x2F;2022-03-15-0)
+* [Invictus DAO whales quickly vote to shutter the project in its first ever community vote, leaving most others with huge losses](https:&#x2F;&#x2F;web3isgoinggreat.com&#x2F;single&#x2F;2022-03-14-1)
+* [Discord compromise targets fans of the Wizard Pass project in a two-for-one scam that both accepted payments for fake NFTs and stole the NFTs that victims already owned](https:&#x2F;&#x2F;web3isgoinggreat.com&#x2F;single&#x2F;2022-03-14-0)
+* [Collector sues artist after spending over $500,000 on an image of Pepe the Frog that others got for free](https:&#x2F;&#x2F;web3isgoinggreat.com&#x2F;single&#x2F;2022-03-12-1)
 <!--END_SECTION:rss_feed-->
 More [here](https://web3isgoinggreat.com/).
 Credits to [Molly White](https://www.mollywhite.net/).
